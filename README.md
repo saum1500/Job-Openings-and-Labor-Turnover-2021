@@ -1,4 +1,4 @@
-# Job-Openings-and-Labor-Turnover-2021
+# Job Openings and Labor Turnover 2021
 A statistical analysis using vizualization tools of the Job openings and hires discrepancy in the Fall of 2021 as it reached record peaks. This will follow several literature reviews and the possible variables affecting it will also be analyzed statistically. 
 
 The data was taken from the U.S Bureau of Labor Statistics. The data pulled was seasonally adjusted values in hundred thousands for total non farm Job Openings, Hires, and Quits. Total Nonfarm, commonly known as Total Nonfarm Payroll, is a measure of the number of U.S. workers in the economy that excludes proprietors, private household employees, unpaid volunteers, farm employees, and the unincorporated self-employed. This measure accounts for approximately 80 percent of the workers who contribute to Gross Domestic Product (GDP). 
