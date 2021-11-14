@@ -1,7 +1,7 @@
 # Job Openings and Labor Turnover 2021
 A statistical analysis using vizualization tools of the Job openings and hires discrepancy in the Fall of 2021 as it reached record peaks. This will follow several literature reviews and the possible variables affecting it will also be analyzed statistically. 
 
-This is a collage of pictures taken by me of all the "Now Hiring" signs on the busiest street of the University of Illinois Urbana-Champaign campus. It took me approximately 15 minutes to gather 16 help wanted signs and I believe it inspired this research. A simple walk down a street is a glaring reflection of the job market crisis of 2021.
+This is a collage of pictures taken by me of all the "Now Hiring" signs on the busiest street of the University of Illinois Urbana-Champaign campus. It took me approximately 15 minutes to gather 16 help wanted signs in a 0.2 miles or roughly 1000 feet distance, and I believe it inspired this research. A simple walk down a street is a glaring reflection of the job market crisis of 2021.
 
 
 ![Collage 2](https://user-images.githubusercontent.com/43017838/141703773-75703d6f-e852-4a04-8628-85ec09bf3ae1.PNG)
